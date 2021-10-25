@@ -1,7 +1,7 @@
 # pico-30minutes
 RaspberryPi Pico LED flashes a few times (x30), every 30 minutes, to remind you to get up and stretch.
 
-The code for this project is below. It is flashed to the Pico so that it runs when plugged in. To flash to the Pico, connect the Pico to your computer with a data usb connection, while holding down the reset button. Then, open with Thonny to create the file and then Save As onto the Pico, with filename *main.py* so it automatically start when plugged in.
+The code for this project is below. It is flashed to the Pico so that it runs when plugged in to a battery/power. To flash to the Pico, connect the Pico to your computer with a data usb connection while holding down the reset button. Then, open Thonny Python IDE to create the file and then Save As onto the Pico, with filename *main.py* so it will automatically start when plugged in.
 
 
 ```
