@@ -25,7 +25,7 @@ while True:
 ```
 
 # Example usage
-Here, the Pico is attached to a power bank, which I carry around with a cable with me anyway. With the Pico now attached, it can also be used to remind me to get up and stretch when I am at my computer desk for too long. It is attached with 4x separator screws and is protected with the plastic cover it came with when attached to a magazine.
+Here, the Pico is attached to a power bank, which I carry around with a cable with me anyway. With the Pico now attached, it can also be used to remind me to get up and stretch when I am at my computer desk for too long. It is attached with 4x separator screws and is protected with the plastic cover it came with when attached to the HackSpace magazine.
 
 
 ![Pico-30minutes attached to a power bank](thirty.jpg)
